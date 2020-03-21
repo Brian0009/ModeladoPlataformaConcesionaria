@@ -31,4 +31,4 @@ Con la herramienta "Enterprise Architect" se realiza el modelado UML para el pro
 
 ### Diagrama de secuencia
 ### Diagrama de estados
-![](Estados.bpm)
+![](Estados.png)
